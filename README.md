@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ultron00007
 - 👀 I’m interested in ...Coding
-- 🌱 I’m currently learning ..C Programing language
+- 🌱 I’m currently learning ..Embedded Systems 
 - 📫 How to reach me ...krishnamore906@gmail.com
 
 <!---
